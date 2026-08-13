@@ -5,17 +5,27 @@
 <!--  Filled in with: po-nuvai  — change here if your personal handle differs.      -->
 <!-- ============================================================================ -->
 
+<!-- Animated gradient header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=po-nuvai&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Rust%20%C2%B7%20AI%2FML%20%C2%B7%20GPU%20%C2%B7%20Cloud&descSize=20&descAlignY=60" alt="header" />
+
 <div align="center">
 
 <a href="https://github.com/po-nuvai">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=800&height=60&lines=Systems+Engineer+%E2%9A%99%EF%B8%8F;Building+Nuvai+%E2%80%94+an+AI-native+dev+platform;Rust+%2B+AI%2FML+%2B+GPU+%2B+Cloud;80%2B+services%2C+shipped+in+Rust" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" alt="wave" />
+&nbsp;Hey, I'm building fast, reliable software in Rust.
+
 </div>
 
 ---
 
 ### 🦀 About Me
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/abokerm/abokerm/main/coding.gif" alt="coding animation" />
 
 - 🏗️ **Systems engineer** building **[Nuvai](https://github.com/Nuvai)** — an AI-native developer platform: a Rust ecosystem of 80+ services spanning code intelligence, agent runtimes, graph databases, and product-lifecycle tooling.
 - 🔧 **Rust-first, close to the metal** — sandboxed code-execution engines, embedded graph DBs, distributed-systems primitives, and GPU/CUDA work.
@@ -135,3 +145,6 @@ An **AI-native software platform**, engineered in Rust. A few of the pieces:
 ![Profile Views](https://komarev.com/ghpvc/?username=po-nuvai&style=for-the-badge&color=6C63FF)
 
 </div>
+
+<!-- Animated footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" alt="footer" />
