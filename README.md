@@ -34,18 +34,6 @@
 
 ---
 
-### 🚧 Currently Building — [Nuvai](https://github.com/Nuvai)
-
-An **AI-native software platform**, engineered in Rust. A few of the pieces:
-
-- 🧠 **Code intelligence & agent runtimes** — sandboxed multi-language execution, AST tooling across 40+ languages, and agent-queryable diagnostic intelligence.
-- 🗄️ **Data & graph engines** — a custom embedded graph database, distributed-systems primitives (CRDTs, gossip, consensus), and high-performance object storage.
-- ⚡ **Performance** — SIMD-optimized tensor ops, GPU/CUDA acceleration, and a WebGPU kinetic-typography engine.
-
-*(Most Nuvai repos are private — happy to walk through the architecture on request.)*
-
----
-
 ### ⭐ Featured Open-Source
 
 | Project | What it does |
