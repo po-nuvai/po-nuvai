@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="po-nuvai — Systems Engineer">
+  <defs>
+    <!-- Animated background gradient (purple -> violet -> cyan sweep) -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6C63FF">
+        <animate attributeName="stop-color" values="#6C63FF;#8E7BFF;#00D9FF;#6C63FF" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.55" stop-color="#8E7BFF">
+        <animate attributeName="stop-color" values="#8E7BFF;#00D9FF;#6C63FF;#8E7BFF" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#00D9FF">
+        <animate attributeName="stop-color" values="#00D9FF;#6C63FF;#8E7BFF;#00D9FF" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Shimmer gradient that sweeps across the title text -->
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#dbe4ff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Soft radial vignette to make text pop -->
+    <radialGradient id="vignette" cx="0.5" cy="0.45" r="0.75">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0b0e14" stop-opacity="0.35"/>
+    </radialGradient>
+
+    <!-- Rounded-corner clip -->
+    <clipPath id="round"><rect x="0" y="0" width="1000" height="250" rx="26" ry="26"/></clipPath>
+
+    <!-- Subtle drop shadow for text -->
+    <filter id="soft" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#0b0e14" flood-opacity="0.45"/>
+    </filter>
+
+    <style>
+      .title    { font: 800 76px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; letter-spacing: 2px; }
+      .subtitle { font: 600 21px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; letter-spacing: 3px; }
+      .dot      { animation: float 6s ease-in-out infinite; }
+      .dot.b    { animation-duration: 8s; animation-delay: -2s; }
+      .dot.c    { animation-duration: 7s; animation-delay: -4s; }
+      @keyframes float {
+        0%,100% { transform: translateY(0);    opacity: .35; }
+        50%     { transform: translateY(-16px); opacity: .8;  }
+      }
+      .underline { stroke-dasharray: 320; stroke-dashoffset: 320; animation: draw 2.2s ease forwards .3s; }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <!-- Background -->
+    <rect x="0" y="0" width="1000" height="250" fill="url(#bg)"/>
+
+    <!-- Faint dotted grid -->
+    <g fill="#ffffff" opacity="0.08">
+      <circle cx="60"  cy="40"  r="2"/><circle cx="140" cy="40" r="2"/><circle cx="220" cy="40" r="2"/>
+      <circle cx="900" cy="210" r="2"/><circle cx="820" cy="210" r="2"/><circle cx="740" cy="210" r="2"/>
+    </g>
+
+    <!-- Floating particles -->
+    <g fill="#ffffff">
+      <circle class="dot"   cx="120" cy="180" r="6"/>
+      <circle class="dot b" cx="880" cy="70"  r="8"/>
+      <circle class="dot c" cx="780" cy="180" r="5"/>
+      <circle class="dot b" cx="180" cy="70"  r="4"/>
+    </g>
+
+    <!-- Vignette -->
+    <rect x="0" y="0" width="1000" height="250" fill="url(#vignette)"/>
+
+    <!-- Title + subtitle -->
+    <g text-anchor="middle" filter="url(#soft)">
+      <text x="500" y="120" class="title" fill="url(#title)">po-nuvai</text>
+      <text x="500" y="168" class="subtitle" fill="#eaf0ff" opacity="0.95">SYSTEMS ENGINEER</text>
+    </g>
+
+    <!-- Animated accent underline -->
+    <path class="underline" d="M340 190 H660" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.85" fill="none"/>
+
+    <!-- Tech tags -->
+    <text x="500" y="222" text-anchor="middle" fill="#eaf0ff" opacity="0.85"
+          font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="4">
+      RUST · AI/ML · GPU · CLOUD
+    </text>
+  </g>
+</svg>
