@@ -8,7 +8,7 @@
 <div align="center">
 
 <a href="https://github.com/po-nuvai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=680&lines=Systems+Engineer+%E2%9A%99%EF%B8%8F;Building+Nuvai+%E2%80%94+an+AI-native+dev+platform;Rust+%2B+AI%2FML+%2B+GPU+%2B+Cloud;80%2B+services%2C+shipped+in+Rust" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=800&height=60&lines=Systems+Engineer+%E2%9A%99%EF%B8%8F;Building+Nuvai+%E2%80%94+an+AI-native+dev+platform;Rust+%2B+AI%2FML+%2B+GPU+%2B+Cloud;80%2B+services%2C+shipped+in+Rust" alt="Typing SVG" />
 </a>
 
 </div>
