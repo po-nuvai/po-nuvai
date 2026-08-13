@@ -6,7 +6,7 @@
 <!-- ============================================================================ -->
 
 <!-- Animated gradient header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=po-nuvai&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Rust%20%C2%B7%20AI%2FML%20%C2%B7%20GPU%20%C2%B7%20Cloud&descSize=20&descAlignY=60" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6C63FF,50:8E7BFF,100:00D9FF&height=180&section=header&text=po-nuvai&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Systems%20Engineer%20%C2%B7%20Rust%20%C2%B7%20AI%2FML%20%C2%B7%20GPU%20%C2%B7%20Cloud&descSize=17&descAlignY=68" alt="header" />
 
 <div align="center">
 
@@ -111,10 +111,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/po-nuvai/po-nuvai/main/profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/po-nuvai/po-nuvai/main/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/po-nuvai/po-nuvai/main/profile-3d-contrib/profile-season-animate.svg" />
   <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/po-nuvai/po-nuvai/main/profile-3d-contrib/profile-season-animate.svg" />
 </picture>
+
+<br/><br/>
+
+<img width="80%" alt="3D isometric contribution blocks" src="https://raw.githubusercontent.com/po-nuvai/po-nuvai/main/profile-3d-contrib/profile-gitblock.svg" />
 
 </div>
 
