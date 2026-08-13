@@ -8,7 +8,7 @@
 <div align="center">
 
 <a href="https://github.com/po-nuvai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Systems+Engineer+%E2%9A%99%EF%B8%8F;Rust+%2B+AI%2FML+%2B+Cloud;Building+fast%2C+reliable+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=680&lines=Systems+Engineer+%26+Founder+%E2%9A%99%EF%B8%8F;Building+Nuvai+%E2%80%94+an+AI-native+dev+platform;Rust+%2B+AI%2FML+%2B+GPU+%2B+Cloud;80%2B+services%2C+shipped+in+Rust" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,28 +17,62 @@
 
 ### 🦀 About Me
 
-- 🔧 **Systems & Rust** — I build fast, memory-safe, reliable software close to the metal.
-- 🤖 **AI / ML** — LLM apps, vision pipelines, and intelligent tooling (e.g. a Gemini-powered OCR system in production).
-- ☁️ **Cloud & DevOps** — infrastructure, CI/CD, and automation across AWS / Azure / GCP.
+- 🏗️ **Founder & systems engineer** building **[Nuvai](https://github.com/Nuvai)** — an AI-native developer platform: a Rust ecosystem of 80+ services spanning code intelligence, agent runtimes, graph databases, and product-lifecycle tooling.
+- 🔧 **Rust-first, close to the metal** — sandboxed code-execution engines, embedded graph DBs, distributed-systems primitives, and GPU/CUDA work.
+- 🤖 **AI / ML** — agentic systems, LLM provider SDKs, VLM vision pipelines, and a Gemini-powered OCR system running in production.
+- ☁️ **Cloud & DevOps** — infrastructure-as-code and deployment automation across AWS / Azure / GCP.
 - 🚀 Always shipping, always learning. Open to collaboration.
+
+---
+
+### 🚧 Currently Building — [Nuvai](https://github.com/Nuvai)
+
+An **AI-native software platform**, engineered in Rust. A few of the pieces:
+
+- 🧠 **Code intelligence & agent runtimes** — sandboxed multi-language execution, AST tooling across 40+ languages, and agent-queryable diagnostic intelligence.
+- 🗄️ **Data & graph engines** — a custom embedded graph database, distributed-systems primitives (CRDTs, gossip, consensus), and high-performance object storage.
+- ⚡ **Performance** — SIMD-optimized tensor ops, GPU/CUDA acceleration, and a WebGPU kinetic-typography engine.
+
+*(Most Nuvai repos are private — happy to walk through the architecture on request.)*
+
+---
+
+### ⭐ Featured Open-Source
+
+| Project | What it does |
+|---|---|
+| **[pybinaryguard](https://github.com/po-nuvai/pybinaryguard)** 🐍 | Binary-compatibility intelligence for Python — catches ABI/binary incompatibilities *before* they crash your program. |
+| **[temps](https://github.com/Nuvai/temps)** 🦀 | Parse human-readable time expressions in Rust — relative times, dates, weekdays, multi-language; works with `chrono` & `jiff`. |
+| **[nuvai-mkl](https://github.com/Nuvai/nuvai-mkl)** 🦀 | Rust math-kernel building blocks for the Nuvai ecosystem. |
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Languages**
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Infra & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -62,8 +96,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/po-nuvai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/po-nuvai)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supertarsbb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pothihai-selvan-a57359257/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:po@nuvai.dev)
 
 <br/>
 
