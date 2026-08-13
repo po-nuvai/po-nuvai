@@ -27,7 +27,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abokerm/abokerm/main/coding.gif" alt="coding animation" />
 
-- 🏗️ **Systems engineer** building **[Nuvai](https://github.com/Nuvai)** — an AI-native developer platform: a Rust ecosystem of 80+ services spanning code intelligence, agent runtimes, graph databases, and product-lifecycle tooling.
+- 🏗️ **Systems engineer** building **Nuvai** — an AI-native developer platform: a Rust ecosystem of 80+ services spanning code intelligence, agent runtimes, graph databases, and product-lifecycle tooling.
 - 🔧 **Rust-first, close to the metal** — sandboxed code-execution engines, embedded graph DBs, distributed-systems primitives, and GPU/CUDA work.
 - ☁️ **Cloud & DevOps** — infrastructure-as-code and deployment automation across AWS / Azure / GCP.
 - 🚀 Always shipping, always learning. Open to collaboration.
