@@ -5,8 +5,8 @@
 <!--  Filled in with: po-nuvai  — change here if your personal handle differs.      -->
 <!-- ============================================================================ -->
 
-<!-- Animated gradient header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6C63FF,50:8E7BFF,100:00D9FF&height=180&section=header&text=po-nuvai&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Systems%20Engineer%20%C2%B7%20Rust%20%C2%B7%20AI%2FML%20%C2%B7%20GPU%20%C2%B7%20Cloud&descSize=17&descAlignY=68" alt="header" />
+<!-- Animated gradient header banner (soft rounded slab) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,50:8E7BFF,100:00D9FF&height=200&section=header&text=po-nuvai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Systems%20Engineer%20%C2%B7%20Rust%20%C2%B7%20AI%2FML%20%C2%B7%20GPU%20%C2%B7%20Cloud&descSize=18&descAlignY=64" alt="header" />
 
 <div align="center">
 
