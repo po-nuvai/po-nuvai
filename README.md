@@ -8,7 +8,7 @@
 <div align="center">
 
 <a href="https://github.com/po-nuvai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=680&lines=Systems+Engineer+%26+Founder+%E2%9A%99%EF%B8%8F;Building+Nuvai+%E2%80%94+an+AI-native+dev+platform;Rust+%2B+AI%2FML+%2B+GPU+%2B+Cloud;80%2B+services%2C+shipped+in+Rust" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=680&lines=Systems+Engineer+%E2%9A%99%EF%B8%8F;Building+Nuvai+%E2%80%94+an+AI-native+dev+platform;Rust+%2B+AI%2FML+%2B+GPU+%2B+Cloud;80%2B+services%2C+shipped+in+Rust" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,9 +17,8 @@
 
 ### 🦀 About Me
 
-- 🏗️ **Founder & systems engineer** building **[Nuvai](https://github.com/Nuvai)** — an AI-native developer platform: a Rust ecosystem of 80+ services spanning code intelligence, agent runtimes, graph databases, and product-lifecycle tooling.
+- 🏗️ **Systems engineer** building **[Nuvai](https://github.com/Nuvai)** — an AI-native developer platform: a Rust ecosystem of 80+ services spanning code intelligence, agent runtimes, graph databases, and product-lifecycle tooling.
 - 🔧 **Rust-first, close to the metal** — sandboxed code-execution engines, embedded graph DBs, distributed-systems primitives, and GPU/CUDA work.
-- 🤖 **AI / ML** — agentic systems, LLM provider SDKs, VLM vision pipelines, and a Gemini-powered OCR system running in production.
 - ☁️ **Cloud & DevOps** — infrastructure-as-code and deployment automation across AWS / Azure / GCP.
 - 🚀 Always shipping, always learning. Open to collaboration.
 
@@ -42,8 +41,6 @@ An **AI-native software platform**, engineered in Rust. A few of the pieces:
 | Project | What it does |
 |---|---|
 | **[pybinaryguard](https://github.com/po-nuvai/pybinaryguard)** 🐍 | Binary-compatibility intelligence for Python — catches ABI/binary incompatibilities *before* they crash your program. |
-| **[temps](https://github.com/Nuvai/temps)** 🦀 | Parse human-readable time expressions in Rust — relative times, dates, weekdays, multi-language; works with `chrono` & `jiff`. |
-| **[nuvai-mkl](https://github.com/Nuvai/nuvai-mkl)** 🦀 | Rust math-kernel building blocks for the Nuvai ecosystem. |
 
 ---
 
@@ -86,6 +83,40 @@ An **AI-native software platform**, engineered in Rust. A few of the pieces:
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=po-nuvai&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=po-nuvai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=po-nuvai&theme=tokyo-night&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=ffffff" />
+
+</div>
+
+---
+
+### 🐍 Watch the snake eat my contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/po-nuvai/po-nuvai/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/po-nuvai/po-nuvai/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/po-nuvai/po-nuvai/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
