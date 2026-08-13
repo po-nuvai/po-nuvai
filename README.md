@@ -21,7 +21,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3&section=header" alt="" />
 
 ### 🦀 About Me
 
@@ -32,7 +32,7 @@
 - ☁️ **Cloud & DevOps** — infrastructure-as-code and deployment automation across AWS / Azure / GCP.
 - 🚀 Always shipping, always learning. Open to collaboration.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3&section=header" alt="" />
 
 ### ⭐ Featured Open-Source
 
@@ -40,7 +40,15 @@
 |---|---|
 | **[pybinaryguard](https://github.com/po-nuvai/pybinaryguard)** 🐍 | Binary-compatibility intelligence for Python — catches ABI/binary incompatibilities *before* they crash your program. |
 
----
+<div align="center">
+
+<a href="https://github.com/po-nuvai/pybinaryguard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=po-nuvai&repo=pybinaryguard&theme=tokyonight&hide_border=true" alt="pybinaryguard" />
+</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3&section=header" alt="" />
 
 ### 🛠️ Tech Stack
 
@@ -69,7 +77,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3&section=header" alt="" />
 
 ### 📊 GitHub Stats
 
@@ -84,7 +92,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3&section=header" alt="" />
 
 ### 🏆 Trophies
 
@@ -94,7 +102,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3&section=header" alt="" />
 
 ### 📈 Contribution Graph
 
@@ -104,7 +112,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3&section=header" alt="" />
 
 ### 🧊 3D Contribution Calendar
 
@@ -118,7 +126,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3&section=header" alt="" />
 
 ### 🐍 Watch the snake eat my contributions
 
@@ -132,12 +140,13 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=3&section=header" alt="" />
 
 ### 🌐 Connect
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nuvai.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/po-nuvai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pothihai-selvan-a57359257/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:po@nuvai.dev)
