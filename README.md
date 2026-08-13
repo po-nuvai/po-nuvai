@@ -116,10 +116,6 @@
   <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/po-nuvai/po-nuvai/main/profile-3d-contrib/profile-season-animate.svg" />
 </picture>
 
-<br/><br/>
-
-<img width="80%" alt="3D isometric contribution blocks" src="https://raw.githubusercontent.com/po-nuvai/po-nuvai/main/profile-3d-contrib/profile-gitblock.svg" />
-
 </div>
 
 ---
