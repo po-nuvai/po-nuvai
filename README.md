@@ -118,6 +118,20 @@ An **AI-native software platform**, engineered in Rust. A few of the pieces:
 
 ---
 
+### 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/po-nuvai/po-nuvai/main/profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/po-nuvai/po-nuvai/main/profile-3d-contrib/profile-season-animate.svg" />
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/po-nuvai/po-nuvai/main/profile-3d-contrib/profile-season-animate.svg" />
+</picture>
+
+</div>
+
+---
+
 ### 🐍 Watch the snake eat my contributions
 
 <div align="center">
